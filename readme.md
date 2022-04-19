@@ -14,9 +14,7 @@
 
 ## Installation
 
-Download the ZIP file from this repository and extract it anywhere in your computer.
-
-Then launch "_Dorico Script Launcher.ahk_".
+Download the ZIP file from this repository (green _"Code"_ button → _Download ZIP_) and extract it anywhere in your computer.
 
 In _Dorico_, set your preferred shortcut for opening the _Dorico_ console, which will then be used by this script:
 * _Edit_ → _Preferences_ → _Key Commands_ → _Script_ → _Show Console_;
@@ -25,6 +23,10 @@ In _Dorico_, set your preferred shortcut for opening the _Dorico_ console, which
 * Set `hotkey_to_open_dorico_console` to the chosen hotkey ([AHK hotkeys instructions](https://www.autohotkey.com/docs/Hotkeys.htm)).
 
 This method is better than traversing the _Dorico_ menu via key presses because if you move the mouse you can interfere with the process.
+
+To run the program, launch "_Dorico Script Launcher.ahk_".
+
+# Other settings
 
 The script's popup menu is set to open with the middle mouse button (`MButton`).
 
@@ -35,4 +37,3 @@ To define hotkeys specifically for the various _Lua_ scripts, edit the _AHK_ scr
 ## Contributing
 
 While anything is welcome, don't focus on the example _Lua_ scripts, those are there just for demonstration.
-
