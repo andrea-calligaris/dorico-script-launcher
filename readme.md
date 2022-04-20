@@ -20,7 +20,7 @@ In _Dorico_, set your preferred shortcut for opening the _Dorico_ console, which
 * _Edit_ → _Preferences_ → _Key Commands_ → _Script_ → _Show Console_;
 * Assign a shortcut that doesn't interfere with your workflow;
 * Edit the AHK script _include/user_settings.ahk_ (e.g. with _Notepad++_);
-* Set `hotkey_to_open_dorico_console` to the chosen hotkey ([AHK hotkeys instructions](https://www.autohotkey.com/docs/Hotkeys.htm)).
+* Set `hotkey_to_open_dorico_console` to the chosen hotkey ([AHK hotkeys instructions](https://www.autohotkey.com/docs/Hotkeys.htm)); default is _CTRL + ALT + F3_.
 
 This method is better than traversing the _Dorico_ menu via key presses because if you move the mouse you can interfere with the process.
 
