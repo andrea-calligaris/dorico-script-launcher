@@ -13,6 +13,10 @@
 * Custom user hotkeys to launch your scripts.
 * Some useful LUA scripts alredy included.
 
+## Demonstration video
+
+[![Watch the demonstration video](https://i1.ytimg.com/vi/uZskaWe1QKg/hqdefault.jpg)](https://youtu.be/uZskaWe1QKg)
+
 ## Installation
 
 Download the ZIP file from this repository (green _"Code"_ button → _Download ZIP_) and extract it anywhere in your computer.
