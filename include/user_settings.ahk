@@ -1,5 +1,5 @@
 ﻿/*
-	Dorico script launcher
+	Popup scripts launcher for Dorico
 		User settings
 */
 

@@ -1,7 +1,6 @@
 ﻿/*
-	Dorico script launcher
-	Andrea Calligaris
-		Main script
+	Popup LUA scripts launcher for Dorico
+	Andrea Calligaris, MIT 2022
 */
 
 #NoEnv

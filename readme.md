@@ -11,6 +11,7 @@
 * Popup menu triggered with middle mouse button to launch scripts in _Dorico_.
 * Put _Lua_ scripts into subfolders for better organization.
 * Custom user hotkeys to launch your scripts.
+* Some useful LUA scripts alredy included.
 
 ## Installation
 
@@ -36,4 +37,5 @@ To define hotkeys specifically for the various _Lua_ scripts, edit the _AHK_ scr
 
 ## Contributing
 
-While anything is welcome, don't focus on the example _Lua_ scripts, those are there just for demonstration.
+Don't be shy, just send stuff, I'll very likely accept it!
+
