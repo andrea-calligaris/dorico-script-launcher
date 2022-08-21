@@ -31,7 +31,7 @@ This method is better than traversing the _Dorico_ menu via key presses because 
 
 To run the program, launch "_Dorico Script Launcher.ahk_".
 
-# Other settings
+## Other settings
 
 The script's popup menu is set to open with the middle mouse button (`MButton`).
 
@@ -39,7 +39,7 @@ For this reason, you can't move the page with the same button: you can however s
 
 To define hotkeys specifically for the various _Lua_ scripts, edit the _AHK_ script _include/user_hotkeys.ahk_ and add your hotkeys specifying the relative path of the scripts.
 
-## Contributing
+## Issues
 
-Don't be shy, just send stuff, I'll very likely accept it!
+If a script doesn't work or work partially, simply try again, because _Dorico_ probably "wasn't ready", but now, having loaded stuff into RAM, it should run faster and apply all the commands in the script.
 

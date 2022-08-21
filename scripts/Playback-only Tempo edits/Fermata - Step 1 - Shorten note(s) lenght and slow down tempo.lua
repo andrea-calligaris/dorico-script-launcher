@@ -1,5 +1,7 @@
 local app=DoApp.DoApp()
 
+app:doCommand([[Window.SwitchMode?WindowMode=kWriteMode]])
+
 app:doCommand([[UI.InvokePropertyChangeValue?Type=kEventPlayEndOffset&Value=int: -240]])
 
 app:doCommand([[UI.InvokePaletteButton?PaletteIndicatorID=tempopreset.ritenuto&PaletteSectionID=kTempoRelativePanel&PropertyButton=false&SetOldValue=false&Set=true&UseLocalOverride=0]])

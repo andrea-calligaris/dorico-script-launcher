@@ -1,5 +1,7 @@
 local app=DoApp.DoApp()
 
+app:doCommand([[Window.SwitchMode?WindowMode=kWriteMode]])
+
 app:doCommand([[UI.InvokePaletteButton?PaletteIndicatorID=tempopreset.accel&PaletteSectionID=kTempoGradualPanel&PropertyButton=false&SetOldValue=false&Set=true&UseLocalOverride=0]])
 
 -- Fix bad selection bug of the just added tempo:

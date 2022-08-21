@@ -1,5 +1,7 @@
 local app=DoApp.DoApp()
+
 app:doCommand([[Window.SwitchMode?WindowMode=kWriteMode]])
+
 app:doCommand([[Edit.SelectAll]])
 app:doCommand([[Filter.PedalLines]])
 app:doCommand([[Window.SwitchMode?WindowMode=kEngraveMode]])

@@ -1,8 +1,10 @@
 local app=DoApp.DoApp()
 
+app:doCommand([[Window.SwitchMode?WindowMode=kWriteMode]])
+
 app:doCommand([[UI.InvokePropertyChangeValue?Type=kTempoImmediateAbsoluteIsApproximate&Value=string: "true"]])
 
--- Fix bad selection bug of the just added tempo:
+-- Fix selection:
 app:doCommand([[Window.SwitchMode?WindowMode=kEngraveMode]])
 app:doCommand([[Window.SwitchMode?WindowMode=kWriteMode]])
 

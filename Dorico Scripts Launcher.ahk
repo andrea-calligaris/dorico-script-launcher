@@ -1,5 +1,5 @@
 ﻿/*
-	Popup LUA scripts launcher for Dorico
+	Popup scripts launcher for Dorico
 	Andrea Calligaris, MIT 2022
 */
 
