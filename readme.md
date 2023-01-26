@@ -42,4 +42,3 @@ To define hotkeys specifically for the various _Lua_ scripts, edit the _AHK_ scr
 ## Issues
 
 If a script doesn't work or work partially, simply try again, because _Dorico_ probably "wasn't ready", but now, having loaded stuff into RAM, it should run faster and apply all the commands in the script.
-
